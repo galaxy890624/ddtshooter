@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ddtshooter", "ddtshooter.pyproj", "{2688285C-41B3-46BF-98BB-F846B19D7B1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2688285C-41B3-46BF-98BB-F846B19D7B1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2688285C-41B3-46BF-98BB-F846B19D7B1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {909C3CC6-E5DA-4B4E-B290-4D40BE9DA8E0}
+	EndGlobalSection
+EndGlobal
